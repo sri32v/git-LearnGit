@@ -1,2 +1,2 @@
 # git-LearnGit
-Learning Git
+Learning Git - Git Tutorial Purpose
